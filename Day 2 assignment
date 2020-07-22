@@ -1,0 +1,37 @@
+What we learn in today's class
+ 1)First we see the basic syntax of the python
+     Basic syntax- print(" ")
+     
+\- This symbol is used for continution
+
+""" """ - triple qutoes are used for askii statements
+
+escape sequence of string - 
+  \n -for next line
+  \t- for space
+  \a -for alert and it sound in computer.
+  
+Formated output
+ 
+ %s - this is used for string 
+ %f - this is used for float value
+ %d - this value is used for integer
+ 
+ 2) Python variables 
+ 
+ * varible means linking of data to a name.
+ * varible refers to the memory loaction that contain the data.
+ * varible cannot start with number.
+ * varible is case sensitive.
+ * if, not, def we cannot use this as a varible.
+ 
+ 3) There are 7 seven operators 
+  
+  arithmatic operator - +, -, *, %, **, /, //
+  comparison operator- (==),(<),(>),(<=),(>=)
+  bitwise opeartor- like AND ,OR,XOR,etc
+  assignment operator -(=),(-=),(+=),(*=),(/=)
+  identity operator- is not
+                     is
+ 
+ 
